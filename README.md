@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Karthik (Seenivasan)</h1>
+<h1 align="center">Hi 👋, I'm Seenivasan</h1>
 <h3 align="center">Frontend Developer | Tech Learner | Consistency Believer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/seenivasan-ui">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
