@@ -1,68 +1,100 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Seenivasan</h1>
-<h3 align="center">Frontend Developer | Tech Learner | Consistency Believer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+%7C+React+Learner;Building+Clean+%26+Responsive+UIs;Consistency+Believer" />
+</p>
+
+<h3 align="center">
+Frontend Developer | HTML • CSS • JavaScript • React (Learning)
+</h3>
 
 <p align="center">
   <a href="https://github.com/seenivasan-ui">
-    <img src="https://komarev.com/ghpvc/?username=seenivasan-ui&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=seenivasan-ui&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
-- 🌱 Currently learning **JavaScript & Frontend Development**
-- 💻 Built projects using **HTML, CSS, JavaScript**
-- 🎯 Goal: Become a skilled developer & crack tech opportunities
+- 🌱 Frontend Developer focused on **clean, responsive, and user-friendly UI**
+- 💻 Strong foundation in **HTML, CSS, JavaScript**
+- ⚛️ Currently learning **React & MySQL**
+- 🎯 Goal: Crack product-based & frontend developer roles
 - 🔥 Believe in **discipline > motivation**
 
 ---
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,vscode,vite,sass" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github" />
 </p>
 
 ---
 
-## 📂 Projects
-- ⏱️ Stopwatch App  
-- 🧮 Calculator  
-- 🖼️ Tribute Page  
+## 🧰 IDEs & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" />
+</p>
 
-👉 Check my repositories 👇  
-🔗 https://github.com/seenivasan-ui?tab=repositories
+
+---
+
+## 📂 Featured Projects
+- ⏱️ **Stopwatch App** – JavaScript DOM & timing logic  
+- 🧮 **Calculator** – Clean UI & event handling  
+- 🖼️ **Tribute Page** – Responsive layout & typography  
+
+🔗 View all projects → https://github.com/seenivasan-ui?tab=repositories
 
 ---
 
 ## 🧠 LeetCode Profile & Stats
 <p align="center">
   <a href="https://leetcode.com/u/my_leetcode23/">
-    <img src="https://leetcard.jacoblin.cool/my_leetcode23?theme=dark&font=Baloo&ext=heatmap" />
+    <img 
+      src="https://leetcard.jacoblin.cool/my_leetcode23?theme=dark&font=Baloo&ext=heatmap&border=0" 
+      alt="LeetCode Stats"
+    />
   </a>
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seenivasan-ui&show_icons=true&theme=dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=seenivasan-ui&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seenivasan-ui&theme=dark" />
+  <img 
+    src="https://streak-stats.demolab.com?user=seenivasan-ui&theme=dark&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
-- 💻 GitHub: https://github.com/seenivasan-ui  
-- 💼 LinkedIn: https://www.linkedin.com/in/svpro24  
-- 🧠 LeetCode: https://leetcode.com/u/my_leetcode23/
+<p align="center">
+  <a href="https://leetcode.com/u/my_leetcode23/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
+  <a href="https://www.linkedin.com/in/svpro24">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/seenivasan-ui">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-✨ *“Consistency creates confidence.”*
-
-
+✨ *“Consistency creates confidence. Confidence builds success.”*
