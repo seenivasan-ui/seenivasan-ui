@@ -63,21 +63,18 @@ Frontend Developer | HTML • CSS • JavaScript • React (Learning)
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=seenivasan-ui&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seenivasan-ui&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=seenivasan-ui&theme=dark&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=seenivasan-ui&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seenivasan-ui&theme=react-dark&hide_border=true" />
 </p>
 
 ---
