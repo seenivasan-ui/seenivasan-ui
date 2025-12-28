@@ -29,7 +29,7 @@ Frontend Developer | HTML • CSS • JavaScript • React
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,nodejs,mongodb,tailwindcss,bootstrap,typescript,a11y,restapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,nodejs,mongodb,tailwindcss,bootstrap,typescript,A11y,api" />
 </p>
 
 ---
