@@ -29,14 +29,14 @@ Frontend Developer | HTML • CSS • JavaScript • React
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,jest,node,figma" />
 </p>
 
 ---
 
 ## 🧰 IDEs & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,netbeans,eclipse,notepad++" />
 </p>
 
 
