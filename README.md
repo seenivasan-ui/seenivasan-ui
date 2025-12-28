@@ -36,7 +36,7 @@ Frontend Developer | HTML • CSS • JavaScript • React
 
 ## 🧰 IDEs & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,netbeans,eclipse,notepad++" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse" />
 </p>
 
 
