@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Seenivasan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+%7C+React+Developer;Building+Clean+%26+Responsive+UIs;Consistency+Believer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+%7C+React+Developer;Building+Clean+%26+Responsive+UIs" />
 </p>
 
 <h3 align="center">
@@ -64,10 +64,6 @@ Frontend Developer | HTML • CSS • JavaScript • React
 
 ---
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=seenivasan-ui&theme=dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=seenivasan-ui&theme=react-dark&hide_border=true" />
