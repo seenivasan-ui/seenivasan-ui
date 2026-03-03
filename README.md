@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Seenivasan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+%7C+React+Developer;Building+Clean+%26+Responsive+UIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Python+Developer;Django+%7C+Software+Developer;Building+Clean+%26+Responsive+Applications" />
 </p>
 
 <h3 align="center">
-Frontend Developer | HTML • CSS • JavaScript • React
+Python Developer | Python • Django  • PostgreSQL • DSA
 </h3>
 
 <p align="center">
@@ -19,50 +19,36 @@ Frontend Developer | HTML • CSS • JavaScript • React
 ---
 
 ## 🙋‍♂️ About Me
-- 🌱 Frontend Developer focused on **clean, responsive, and user-friendly UI**
-- 💻 Strong foundation in **HTML, CSS, JavaScript**
-- ⚛️ Currently learning **React & MySQL**
-- 🎯 Goal: Crack product-based & frontend developer roles
-- 🔥 Believe in **discipline > motivation**
+- 🐍 Python Developer passionate about **backend development and problem solving**
+- 💻 Skilled in **Python, Data Structures, and Object-Oriented Programming**
+- 🌐 Currently learning **Django, REST APIs, and Database Management**
+- ⚙️ Interested in building **scalable backend systems and automation tools**
+- 🎯 Goal: Secure a **Python Developer role in a product-based company**
+- 🔥 Strong believer in **discipline, consistency, and continuous learning**
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,nodejs,mongodb,tailwindcss,bootstrap,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,mysql,postgresql,mongodb,git,github,docker,linux,vscode" />
 </p>
 
 ---
-
 ## 🧰 IDEs & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,figma,vite,redux,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,git,github,docker,postman,anaconda,jupyter" />
 </p>
-
 
 ---
 
 ## 📂 Featured Projects
-- ⏱️ **Stopwatch App** – JavaScript DOM & timing logic  
-- 🧮 **Calculator** – Clean UI & event handling  
-- 🖼️ **Tribute Page** – Responsive layout & typography  
-
+- 🛒 **E-Commerce Platform** – Developed using Python & Django with authentication, product management, and order processing  
+- 💬 **Real-Time Chat Application** – Built using Python with WebSockets for instant messaging between users  
+- 👁️ **Face Detection System** – Implemented using Python & OpenCV for real-time face recognition and image processing
 🔗 View all projects → https://github.com/seenivasan-ui?tab=repositories
 
 ---
 
-## 🧠 LeetCode Profile & Stats
-<p align="center">
-  <a href="https://leetcode.com/u/my_leetcode23/">
-    <img 
-      src="https://leetcard.jacoblin.cool/my_leetcode23?theme=dark&font=Baloo&ext=heatmap&border=0" 
-      alt="LeetCode Stats"
-    />
-  </a>
-</p>
-
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
